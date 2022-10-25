@@ -1,0 +1,19 @@
+.match-card-item {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  border: 1px solid white;
+  color: white;
+  align-items: center;
+
+  width: 350px;
+  flex-wrap: wrap;
+  background-color: black;
+  border-radius: 8px;
+  padding: 20px;
+  font-size: 25px;
+}
+.match-card-item-image {
+  width: 120px;
+  height: 120px;
+}

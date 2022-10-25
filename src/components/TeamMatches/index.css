@@ -1,0 +1,27 @@
+.latest-match-cont {
+  width: 100vw;
+  display: flex;
+  padding: 20px;
+
+  background-image: linear-gradient(#d91c1f, #a4261d, #1e293b);
+}
+.dis-cont {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 15px;
+}
+.banner-image {
+  margin-bottom: 15px;
+  height: 400px;
+  width: 100%;
+}
+.latest-match {
+  width: 100%;
+}
+.match-card {
+  list-style-type: none;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}

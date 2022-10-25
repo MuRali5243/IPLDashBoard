@@ -1,0 +1,20 @@
+.latest-matc-cont {
+  display: flex;
+
+  justify-content: space-between;
+  padding: 20px;
+  color: white;
+  width: 100%;
+  background-color: black;
+  font-size: 18px;
+  border-radius: 8px;
+
+  align-items: center;
+}
+.lat-match-img {
+  width: 120px;
+  height: 100px;
+}
+.first-cont {
+  color: white;
+}
